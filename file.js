@@ -5,3 +5,5 @@ let result = arr.reduce((sum, elem) => {
 }, 0);
 
 console.log(result);
+
+//some comment
